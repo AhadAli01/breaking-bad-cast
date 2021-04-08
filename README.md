@@ -1,5 +1,41 @@
-# Getting Started with Create React App
+# Project: Breaking Bad Cast 
 
+
+### About
+***
+This project was a React application that utilizes the Breaking Bad API to create a simple UI to display and search all the characters from the show.
+
+### Key Learnings
+***
+This project aims to help gain experience with designing and a developing a frontend project using React. Some practical concepts explored included ES6 Modules,
+Asyncronous JavaScript, APIs/fetch, JSON and a simple, elegant and responsive design.
+
+### Usage
+*** 
+[Live Demo](https://ahadali01.github.io/breaking-bad-cast/)
+
+To tinker with the code and start own localhost server, simply clone repository and then type 
+```bash
+npm install
+``` 
+to install all necessary node modules as specified in package.json and then
+```bash
+npm start
+```
+or
+```bash
+npm run build
+```
+to create the build folder with the bundled and executed code.
+
+***
+
+***
+
+***
+
+# Getting Started with Create React App
+***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
